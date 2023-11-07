@@ -1,5 +1,6 @@
 #!/bin/bash
 
+# author: Khondokar Md. Mehedi Hasan
 # Define file paths for data storage
 hospital_file="hospital.txt"
 donor_file="donor.txt"
