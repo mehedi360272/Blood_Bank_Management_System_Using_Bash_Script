@@ -1,5 +1,5 @@
 # Blood Bank Management System
-
+# Author: Khondokar Md. Mehedi Hasan
 # Description:
 The Blood Bank Management System is a command-line-based application designed to streamline the administrative and record-keeping tasks of a Blood Bank facility. This project allows blood bank staff to manage various aspects of their operations efficiently, including hospitals, blood donors, patients, blood stock, and staff records.
 
