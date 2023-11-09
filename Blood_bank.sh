@@ -38,7 +38,7 @@ available_blood_group_list=($(cat "$available_blood_group_file"))
 
 # Main menu
 while true; do
-    echo "=== Blood Bank Management System ==="
+    echo ">===> Blood Bank Management System <===<"
     echo "1. Blood Bank"
     echo "2. Hospital list"
     echo "3. Blood Donor list"
