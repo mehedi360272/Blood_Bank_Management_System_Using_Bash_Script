@@ -18,3 +18,6 @@ The Blood Bank Management System is a command-line-based application designed to
 6. Staff Management: Efficiently manage hospital staff records, including staff name, staff ID, and the services they provide. All staff records are saved in a separate text file.
 
 The project ensures that all data is saved in text files, making it easy to preserve records, retrieve information, and continue management seamlessly across sessions. This Blood Bank Management System streamlines and enhances the administrative processes within a Blood Bank institution, ultimately contributing to better blood resource management.
+
+# Contribution
+Feedback and contribution are very welcome 😊 If you'd like to contribute, please make a pull request with your suggested changes.
